@@ -2,4 +2,4 @@
 version: v1.14.0
 exclude:
   global:
-    snyk-goof/app.js
+    "snyk-goof/app.js"
