@@ -2,4 +2,4 @@
 version: v1.14.0
 exclude:
  code:
-   "**/*.db.js"
+   "**/*_db.js"
