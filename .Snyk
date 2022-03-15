@@ -3,4 +3,3 @@ version: v1.22.1
 exclude:
  code:
    - db.js
-   - app.js
