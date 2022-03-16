@@ -1,5 +1,4 @@
 # Snyk (https://snyk.io) policy file
 exclude:
  code:
-   - app.js
    - db.js
