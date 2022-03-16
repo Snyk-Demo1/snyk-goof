@@ -1,5 +1,4 @@
 # Snyk (https://snyk.io) policy file
-version: v1.22.1
 exclude:
  code:
    - app.js
