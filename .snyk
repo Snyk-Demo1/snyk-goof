@@ -2,4 +2,4 @@
 exclude:
  global:
    - app.js
-   - Dockerfile
+   - db.js
