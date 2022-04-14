@@ -2,3 +2,4 @@
 exclude:
  global:
    - routes/**
+   - db.js
