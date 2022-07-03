@@ -3,4 +3,4 @@ exclude:
  global:
    - package.json
    #- routes/**
-   #- db.js
+  - db.js
