@@ -4,3 +4,5 @@ exclude:
    - package.json
    - routes/**
    - db.js
+   - pom.xml
+   - Dockerfile
