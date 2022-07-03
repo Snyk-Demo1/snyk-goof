@@ -2,5 +2,5 @@
 exclude:
  global:
    - package.json
-   #- routes/**
-  - db.js
+   - routes/**
+   - db.js
