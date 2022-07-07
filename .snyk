@@ -1,8 +1,8 @@
 # Snyk (https://snyk.io) policy file
 exclude:
  global:
-   - package.json
-   - routes/**
-   - db.js
-   - pom.xml
-   - Dockerfile
+   #- package.json
+   #- routes/**
+   #- db.js
+   #- pom.xml
+   #- Dockerfile
